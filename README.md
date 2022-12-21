@@ -6,6 +6,10 @@ The work takes inspiration from peer-to-peer (P2P) insurance and collateralized 
 We formally describe the protocol, assess its efficiency and key properties and present a reference implementation.
 Finally, we address limitations, extensions and ideas for further research.
 ​
+# Citations
+Citation information can be found on arXiv:
+<https://doi.org/10.48550/arXiv.2212.10308>
+
 # Licenses
 ## Code
 All code in the `contracts/` directory is licensed under the MIT license, see `LICENSE.md`
